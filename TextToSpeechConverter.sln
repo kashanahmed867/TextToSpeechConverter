@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSpeechConverter", "TextToSpeechConverter\TextToSpeechConverter.csproj", "{654CAFF3-AF66-40D5-B14E-BD476270EB1D}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Tex-SpeechConverter", "Tex-SpeechConverter\Tex-SpeechConverter.isproj", "{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D} = {654CAFF3-AF66-40D5-B14E-BD476270EB1D}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{654CAFF3-AF66-40D5-B14E-BD476270EB1D}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.Debug|Any CPU.ActiveCfg = DVD-5
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.Debug|Any CPU.Build.0 = DVD-5
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.DVD-5|Any CPU.Build.0 = DVD-5
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.Release|Any CPU.ActiveCfg = SingleImage
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.Release|Any CPU.Build.0 = SingleImage
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{F27CBDE8-6047-4CCB-84DA-A2EADAC42EA4}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

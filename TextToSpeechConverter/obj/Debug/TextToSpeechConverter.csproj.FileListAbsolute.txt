@@ -1,0 +1,10 @@
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\bin\Debug\TextToSpeechConverter.exe.config
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\bin\Debug\TextToSpeechConverter.exe
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\bin\Debug\TextToSpeechConverter.pdb
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.csprojResolveAssemblyReference.cache
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.Form1.resources
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.Properties.Resources.resources
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.csproj.GenerateResource.Cache
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.exe
+c:\users\kashan\documents\visual studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.pdb
+C:\Users\Kashan\Documents\Visual Studio 2015\Projects\TextToSpeechConverter\TextToSpeechConverter\obj\Debug\TextToSpeechConverter.Splash.resources
